@@ -1,3 +1,9 @@
+# About the Project 
+NightSky displays the current temperature of the city that the user enters. It also displays the minimum/maximum temperature, sunrise, sunset time, pressure and humidity. This project was made using React.js as the front-end framework and also uses the API of OpenWeatherMap.
+
+# Project Link : 
+https://nightsky.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
